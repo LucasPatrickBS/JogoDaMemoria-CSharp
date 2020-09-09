@@ -1,0 +1,20 @@
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\lucas\Desktop\Códigos\Téctincas de programação\Trabalho final 1o semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.JogoDaMemoria.resources
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.JogoDaMemoria.resources
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\lucas\Desktop\Saves Cotuca\CTC 08.31\MATÉRIAS\Primeiro semestre\Tecnicas de Programação I\Trabalho final 1o semestre\20356\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
