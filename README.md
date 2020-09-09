@@ -8,7 +8,7 @@ O principal foco da atividade foi, criaar uma experiência básica da manipulaç
 
 ## 💻 Configurando seu ambiente:
 
-- [Código Visual Studio] (https://code.visualstudio.com/)
+- [Código Visual Studio] (https://visualstudio.microsoft.com/pt-br/vs/)
 
 ## ⚙️ Executando o projeto
 
